@@ -2,7 +2,7 @@
 
 A long-document summarization system built with Hugging Face Transformers (`sshleifer/distilbart-cnn-6-6`), PyTorch, and Streamlit. Standard sequence-to-sequence models truncate inputs beyond 1,024 tokens; this tool overcomes that limit using sentence-aware overlapping chunking and a recursive map-reduce aggregation pipeline.
 
-**Live Demo:** [Open Streamlit App](https://your-summarizer-app.streamlit.app)
+**Live Demo:** [Open Streamlit App](https://long-doc-summarizer-kzafwgsrpo6j877nnssk4y.streamlit.app/)
 
 ## How It Works
 
